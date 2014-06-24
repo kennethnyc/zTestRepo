@@ -1,0 +1,6 @@
+C:\Users\ngy001\_My Project\Playpen\Playpen\Playpen\bin\Playpen.dll.config
+C:\Users\ngy001\_My Project\Playpen\Playpen\Playpen\bin\Playpen.dll
+C:\Users\ngy001\_My Project\Playpen\Playpen\Playpen\bin\Playpen.pdb
+C:\Users\ngy001\_My Project\Playpen\Playpen\Playpen\obj\Debug\Playpen.csprojResolveAssemblyReference.cache
+C:\Users\ngy001\_My Project\Playpen\Playpen\Playpen\obj\Debug\Playpen.dll
+C:\Users\ngy001\_My Project\Playpen\Playpen\Playpen\obj\Debug\Playpen.pdb
