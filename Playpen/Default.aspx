@@ -11,7 +11,7 @@
     <meta charset="utf-8">
     <style>
       html, body, #map-canvas {
-        height: 100%;
+        height: 100%; //My changes in Develop Branch
         margin: 0px;
         padding: 0px
       }
