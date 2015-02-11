@@ -18,7 +18,7 @@
     </style>
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
     <script>
-        var map;
+        var map; //This is my comment
         function initialize() {
             var mapOptions = {
                 zoom: 8,
