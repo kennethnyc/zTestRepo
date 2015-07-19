@@ -18,7 +18,7 @@
     </style>
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
     <script>
-        var map; //This is my comment
+        var map;
         function initialize() {
             var mapOptions = {
                 zoom: 8,
@@ -37,7 +37,7 @@
   </body>
 </html>
 
-
+test test
 
 
 <%--Multiple Markers--%>

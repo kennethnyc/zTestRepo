@@ -11,11 +11,7 @@ namespace Playpen
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-<<<<<<< HEAD
-            //This is my comment
-=======
              //My changes in Develop Branch
->>>>>>> develop
         }
     }
 }
